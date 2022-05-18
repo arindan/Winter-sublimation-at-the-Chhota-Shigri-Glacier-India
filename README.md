@@ -5,10 +5,13 @@ This repository is the collection of the data and codes used in analysis and gen
 >Mandal, A., Angchuk, T., Azam, M. F., Ramanathan, A., Wagnon, P., Soheb, M., and Singh, C.: 11-year record of wintertime snow surface energy balance and sublimation at 4863 m a.s.l. on Chhota Shigri Glacier moraine (western Himalaya, India), The Cryosphere Discuss. [preprint], https://doi.org/10.5194/tc-2021-386, in review, 2022.
 
 
-## Data
-
-
-
 ## Code
+Surface energy balance (SEB) calculation codes are in `SEB_in_R_18 May 2022.R`
 
+
+## Data
+Corresponding data for each figures are given in `/data` folder, with figure number at the beginning.
+
+## Acknowledgement / Funding
+We thank Jawaharlal Nehru University, New Delhi, for providing all the facilities to carry out this work. The funding agencies and project collaborators who fully and partially supported this work are the Department of Science and Technology (Govt. of India), IFCPAR/CEFIPRA, INDICE, GLACINDIA and CHARIS, MoES,SAC-ISRO. Thanks to Etienne Berthier for the Pléiades image provided under the Pléiades Glacier Observatory (PGO) initiative of the French Space Agency (CNES). AM is grateful to UGC-RGNF and DAAD Bi-nationally Supervised PhD Fellowship (Germany) for providing financial support for his PhD. MFA acknowledges the research grant from INSPIRE Faculty award (IFA-14-EAS-22) and Space Application Centre (ISRO).
 
