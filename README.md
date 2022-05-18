@@ -9,7 +9,7 @@ This repository is the collection of the data and codes used in analysis and gen
 Surface energy balance (SEB) calculations were done in `R` and the codes are provided in `SEB_in_R_18 May 2022.R`. Most of the figure were generated in `R`, except few in `Python` using `Jupyter Notebook`. Several `R` and `Python` library/packages (mentioned in the respective scripts) were used to analyse the datasets and generate figures, **BIG THANKS** to those library/package authors. To smoothly reproduce the figures, the required libraries/packages should be installed in the user's `R` or `Python` environment. 
 
 ## Data
-AWS-M (4863 m a.s.l.) data used in this study for 2009-2020 (Dec-Apr for each hydrological year) is provided in an excel file `/data/AWS-M_30-min_DJFMA_2009-2020.xlsx`. 
+AWS-M (4863 m a.s.l.) data used in this study for 2009-2020 (Dec-Apr for each hydrological year) is provided in an excel file `/data/AWS-M_30-min_DJFMA_2009-2020.xlsx`. The weather station (AWS-M) is located in the Lahaul-Spiti District of Himachal Pradesh, India (GPS coordinates: 32.23° N, 77.51° E).
 Data for each figures in the paper are given in `/data` folder, with figure number at the beginning.
 
 ## Acknowledgement / Funding
