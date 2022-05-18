@@ -10,7 +10,7 @@ Surface energy balance (SEB) calculations were done in `R` and the codes are in 
 
 
 ## Data
-AWS-M (4863 m a.s.l.) data used in this study for 2009-2020 (Dec-Apr for each hydrological year) is provided in an excel file `AWS-M_30-min_DJFMA_2009-2020.xlsx`. 
+AWS-M (4863 m a.s.l.) data used in this study for 2009-2020 (Dec-Apr for each hydrological year) is provided in an excel file `/data/AWS-M_30-min_DJFMA_2009-2020.xlsx`. 
 Data for each figures in the paper are given in `/data` folder, with figure number at the beginning.
 
 ## Acknowledgement / Funding
