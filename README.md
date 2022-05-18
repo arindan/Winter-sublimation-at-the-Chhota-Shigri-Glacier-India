@@ -6,7 +6,7 @@ This repository is the collection of the data and codes used in analysis and gen
 
 
 ## Code
-Surface energy balance (SEB) calculations were done in `R` and the codes are in `SEB_in_R_18 May 2022.R`. Most of the figure were generated in `R`, except few in `Python` using `Jupyter Notebook`.
+Surface energy balance (SEB) calculations were done in `R` and the codes are provided in `SEB_in_R_18 May 2022.R`. Most of the figure were generated in `R`, except few in `Python` using `Jupyter Notebook`.
 
 
 ## Data
