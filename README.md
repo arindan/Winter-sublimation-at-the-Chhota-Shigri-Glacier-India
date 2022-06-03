@@ -4,6 +4,9 @@ This repository is the collection of the data and codes used in analysis and gen
 
 >Mandal, A., Angchuk, T., Azam, M. F., Ramanathan, A., Wagnon, P., Soheb, M., and Singh, C.: 11-year record of wintertime snow surface energy balance and sublimation at 4863 m a.s.l. on Chhota Shigri Glacier moraine (western Himalaya, India), The Cryosphere Discuss. [preprint], https://doi.org/10.5194/tc-2021-386, in review, 2022.
 
+Citation for data and code: [![DOI](https://zenodo.org/badge/493343517.svg)](https://zenodo.org/badge/latestdoi/493343517)
+
+
 
 ## Code
 Surface energy balance (SEB) calculations were done in `R` and the codes are provided in `SEB_in_R_18 May 2022.R`. Most of the figure were generated in `R`, except few in `Python` using `Jupyter Notebook`. Several `R` and `Python` library/packages (mentioned in the respective scripts) were used to analyse the datasets and generate figures, **BIG THANKS** to those library/package authors. To smoothly reproduce the figures, the required libraries/packages should be installed in the user's `R` or `Python` environment. 
