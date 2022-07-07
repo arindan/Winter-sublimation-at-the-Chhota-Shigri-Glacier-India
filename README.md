@@ -10,6 +10,9 @@ Surface energy balance (SEB) calculations were done in `R` and the codes are pro
 ## Acknowledgement / Funding
 We thank Jawaharlal Nehru University, New Delhi, for providing all the facilities to carry out this work. The funding agencies and project collaborators who fully and partially supported this work are the Department of Science and Technology (Govt. of India), IFCPAR/CEFIPRA, INDICE, GLACINDIA and CHARIS, MoES, SAC-ISRO. The Pléiades image in Fig. 1 was provided under the Pléiades Glacier Observatory (PGO) initiative of the French Space Agency (CNES). AM is grateful to UGC-RGNF and DAAD Bi-nationally Supervised PhD Fellowship (Germany) for providing financial support for his PhD. MFA acknowledges the research grant from INSPIRE Faculty award (IFA-14-EAS-22) and Space Application Centre (ISRO).
 
+## Citation
+[![DOI](https://zenodo.org/badge/493343517.svg)](https://zenodo.org/badge/latestdoi/493343517)
+
 ## Contact
 Please feel free to contact me if you have any questions or suggestions. <br/>
 Arindan Mandal (arindan.141@gmail.com)
