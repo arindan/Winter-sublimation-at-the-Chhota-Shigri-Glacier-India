@@ -2,7 +2,7 @@
 
 This repository is the collection of the data and codes used in analysis and generating figures for the paper published in The Cryosphere (TC):
 
->Mandal, A., Angchuk, T., Azam, M. F., Ramanathan, A., Wagnon, P., Soheb, M., and Singh, C.: An 11-year record of wintertime snow-surface energy balance and sublimation at 4863 m a.s.l. on the Chhota Shigri Glacier moraine (western Himalaya, India), The Cryosphere, 16, 3775–3799, https://doi.org/10.5194/tc-16-3775-2022, 2022. [DOI](https://tc.copernicus.org/articles/16/3775/2022/)
+>Mandal, A., Angchuk, T., Azam, M. F., Ramanathan, A., Wagnon, P., Soheb, M., and Singh, C.: An 11-year record of wintertime snow-surface energy balance and sublimation at 4863 m a.s.l. on the Chhota Shigri Glacier moraine (western Himalaya, India), The Cryosphere, 16, 3775–3799, https://doi.org/10.5194/tc-16-3775-2022, 2022.
 
 ## Code
 Surface energy balance (SEB) calculations were done in `R` and the codes are provided in `SEB_in_R_18 May 2022.R`. Most of the figure were generated in `R`, except few in `Python` using `Jupyter Notebook`. Several `R` and `Python` library/packages (mentioned in the respective scripts) were used to analyse the datasets and generate figures, **BIG THANKS** to those library/package authors. To smoothly reproduce the figures, the required libraries/packages should be installed in the user's `R` or `Python` environment. 
